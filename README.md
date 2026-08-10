@@ -75,6 +75,24 @@ QGIS2Web Plugin
 WebGIS Export
    ↓
 HTML / CSS / JavaScript
+
+
+
+Watch Details:
+https://www.youtube.com/@aurangzebrehmani
+
+
+
+
+Contact Me:
+Upwork:
+https://www.upwork.com/freelancers/~01bcda2dbeab7b3bd9?viewMode=1
+Fiverr:
+https://www.fiverr.com/lahoretech?public_mode=true
+LinkedIn:
+https://www.linkedin.com/in/aurangzeb-gis-expert/
+Insta:
+https://www.instagram.com/az_rehmani/
    ↓
 Customization
    ↓
