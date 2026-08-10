@@ -76,6 +76,19 @@ WebGIS Export
    ↓
 HTML / CSS / JavaScript
 
+   ↓
+Customization
+   ↓
+Interactive WebGIS
+
+
+
+
+
+
+
+
+
 
 
 Watch Details:
@@ -93,7 +106,3 @@ LinkedIn:
 https://www.linkedin.com/in/aurangzeb-gis-expert/
 Insta:
 https://www.instagram.com/az_rehmani/
-   ↓
-Customization
-   ↓
-Interactive WebGIS
